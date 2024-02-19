@@ -1,0 +1,34 @@
+﻿body {
+    
+}
+
+#foto_perfil {
+    width: 170px;
+    margin: 2rem, 0;
+}
+
+.section-portafolio {
+    margin: 5rem 0 7rem 0;
+    color: white;
+    font-family: 3rem;
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   
+}
+
+.section-portafolio h1{
+
+    margin-bottom: 2rem;
+}
+.section-portafolio p {
+    font-size: 1.5rem;
+    line-height: 3rem;
+
+}
+
+.netLogo {
+    width: 200px;
+    margin: 3rem 0 5rem 0;
+}
+    
